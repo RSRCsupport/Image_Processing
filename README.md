@@ -11,7 +11,8 @@ a nice suit of packages with python distribution. Install the 32-bit version
 for python 3.6 as the 64 bit will conflict with your Arcmap distribution. 
 If you are not doing anything with the Arcpy module in ArcGIS then get the 64 bit. 
 It's better and include a Jupiter Console
-2) Install GDAL in Anaconda: go to >start>All programs>Anaconda Prompt and type > conda install -c conda-forge gdal 
+2) Install GDAL in Anaconda: go to >start>All programs>Anaconda Prompt and type > 
+```conda install -c conda-forge gdal``` or ```conda install -c conda-forge/label/broken gdal```
 at the command prompt. You will be prompted to say yes y to complete the installation. 
 This process works better when no proxy is limiting the planet software installation, 
 if this is the case send me an email to rodbio2008@gmail.com
