@@ -1,4 +1,4 @@
-# _*Image Processing with GDAL*_
+# **Image Processing with GDAL**
 
 > This repository is created and maintained to introduce GEOM 2000/7000 students to image processing by using 
 GDAL [http://www.gdal.org/]. Three main themes will be covered:
@@ -7,7 +7,9 @@ GDAL [http://www.gdal.org/]. Three main themes will be covered:
 - Image Corrections and Algebra 
 - Image Classification, Modelling and Simple Time Series
 
-#### _Setup Python distribution in Anaconda_
+> ### _The first steps will be 1) to install Anaconda (python distribution) and GDAL and 2) clone an introductory jupiter notebook to run it in your Anaconda environment_
+
+#### _Setup Python distribution in Anaconda and install GDAL_
 
 > 1) Download Anaconda [https://www.anaconda.com/download/]: it comes with 
 a nice suit of packages with python distribution. Install the 32-bit version 
@@ -24,6 +26,7 @@ or alternatively
        
 >   at the command prompt. You will be prompted to say yes y to complete the installation. This process works better when no proxy is limiting the planet software installation, if this is the case send me an email to rodbio2008@gmail.com
 
+#### _
 
 
 
