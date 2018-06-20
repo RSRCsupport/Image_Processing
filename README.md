@@ -1,6 +1,6 @@
-# Image Processing with GDAL
+# _*Image Processing with GDAL*_
 
-> This repository is created to introduce GEOM 2000/7000 students to image processing by using 
+> This repository is created and maintained to introduce GEOM 2000/7000 students to image processing by using 
 GDAL [http://www.gdal.org/]. Three main themes will be covered:
 
 - Introduction to on-line image processing (links to examples)
