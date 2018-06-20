@@ -31,6 +31,7 @@ or alternatively
  
 > Instructions here how to clone with PyCharm? and how to open the notebook once you get it in your local drive
 > Once you have cloned your repository, change directory to where the Jupyter notebooks are located in the repository folder (e.g., the notebooks directory) and start Jupyter with the jupyter notebook command.
+or just fire up jupiter notebook from Anaconda and cick upload to load the notebook you cloned and run it from there
 probably include here some screenshots for all the steps?
 
 
