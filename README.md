@@ -11,7 +11,7 @@ GDAL (http://www.gdal.org/). Three main themes will be covered:
 1) Download Anaconda (https://www.anaconda.com/download/): it comes with 
 a nice suit of packages with python distribution. Install the 32-bit version 
 for python 3.6 as the 64 bit will conflict with your Arcmap distribution. 
-If you are not doing anything with the Arcpy module in ArcGIS then get the 64 bit. 
+If you are not doing anything with the Arcpy module in ArcGIS then install the 64 bit. 
 It's better and include a Jupiter Console
 2) Install GDAL in Anaconda: go to >start>All programs>Anaconda Prompt and type >
  
