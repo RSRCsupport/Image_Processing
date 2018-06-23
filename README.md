@@ -1,13 +1,13 @@
 # **Image Processing with GDAL**
 
-> This repository is created and maintained to introduce GEOM 2000/7000 students to image processing by using 
-GDAL [http://www.gdal.org/]. Three main themes will be covered:
+This repository is created and maintained to introduce GEOM 2000/7000 students to image processing by using 
+[GDAL](http://www.gdal.org/). Three main themes will be covered:
 
 - Introduction to on-line image processing (links to examples)
 - Image Corrections and Algebra 
 - Image Classification, Modelling and Simple Time Series
 
-> ### _The first steps will be 1) to install Anaconda (python distribution) and GDAL and 2) clone an introductory jupiter notebook from this git repository to run it in your Anaconda environment_
+### The first steps will be 1) to install Anaconda (python distribution) and GDAL and 2) clone an introductory jupiter notebook from this git repository to run it in your Anaconda environment_
 
 #### _1) Setup Python distribution in Anaconda and install GDAL_
 
