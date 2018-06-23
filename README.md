@@ -7,7 +7,7 @@ This repository is created and maintained to introduce GEOM 2000/7000 students t
 - Image Corrections and Algebra 
 - Image Classification, Modelling and Simple Time Series
 
-For initial setup, start with [this](https://github.com/RSRCsupport/Image_Processing/blob/master/1.%20Setting%20GDAL%20with%20Anaconda.md)
+For initial setup, start [here] (https://github.com/RSRCsupport/Image_Processing/blob/master/1.%20Setting%20GDAL%20with%20Anaconda.md)
 
 
 
